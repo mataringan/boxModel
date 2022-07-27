@@ -185,6 +185,7 @@ main .hero {
 .content .writer a {
   text-decoration: none;
   padding: 5px;
+  color: salmon;
 }
 
 .content .writer a:hover {
